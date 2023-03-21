@@ -1,0 +1,2 @@
+1] whats need to be done first redux or something else if redux then what.....while making app
+2] difference between default export and normal export

@@ -1,0 +1,11 @@
+.mainDiv {
+  background-color: rgb(202, 198, 198);
+  width: 240px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.image {
+ margin-left: 20px;
+  height: 200px;
+}
